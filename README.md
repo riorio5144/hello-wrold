@@ -1,2 +1,4 @@
-# hello-wrold
-返事する
+# hello-world
+
+こん!bot君です
+よろぴく
